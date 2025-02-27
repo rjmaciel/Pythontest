@@ -45,3 +45,4 @@ else:
 Vencimento_liquido = Vencimento_bruto_total + Subsidio_alimentação + Ajudas_de_custo_dedutiveis_nao_dedutiveis - Desconto_SS - Descontos_IRS
 print("Seu salário liquido é de", Vencimento_liquido, "€")
 # horas extra, turnos extra e duodecimos!?!?!
+# Na realidade só adicionei esta linha de comentário neste ficheiro, para testar no GitHub!
